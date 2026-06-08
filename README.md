@@ -248,6 +248,6 @@ oxide.reload CoreLoot
 
 ## Support
 
-Created by Corevalence
+Created by Chris Newman
 
-Report issues or suggestions through uMod discussions.
+Report issues or suggestions.
